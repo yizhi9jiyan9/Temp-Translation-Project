@@ -1,0 +1,1 @@
+item replace entity @s hotbar.2 with barrier{armor:1,display:{Name:'{"text":"没有技能","color":"red","italic":false}'}} 1

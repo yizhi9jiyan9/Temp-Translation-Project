@@ -1,0 +1,18 @@
+## How to create a new item #
+1. Copy folder of similar item and rename.
+2. Create /give for new item (and any variations) and put it into update
+3. Enter any code that runs as you hold it into dur. If there is a tmr put it under itemMtmr
+4: Than do global stuff. goto bottom list for this
+5: Edit update to include variables in dur that determine the state of item
+6: Than add reset code for all data (besides tmr & clear) used in dur and visible effets (potions, titles, ect.) into reset
+7: Finally put correct functions in []/glob, []/main, []/reset, []/set, []/update
+8. Than add any items in inventory to all.json
+
+
+## How to do global stuff ##
+1. Create glob file and put all things that need to be run outside of player.
+2. Add to []/glob with some kind of condition (ex: the entity necessary existing)
+3. Ensure that if it can damage other players (or knock them around) that you set the entity OuchID to the player's HitID (should be done in dur)
+4. Than have a way to set the OuchID to possible target's Pos[blank]ID, blank being damage type, if it is incosistant
+ - Make sure to have the [blank] damage type be detectable by advancements and cleared at the bottom of death section in game main
+5. If it is something consistant (damage being done in the command) you can set to HitterID and set HitTmr

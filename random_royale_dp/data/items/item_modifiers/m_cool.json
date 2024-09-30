@@ -1,0 +1,15 @@
+[
+  {
+    "function": "minecraft:set_damage",
+    "damage": {
+      "type": "minecraft:score",
+      "target": {
+        "type": "minecraft:fixed",
+        "name": "#store"
+      },
+      "score": "ItemMtmr",
+      "scale": 0.01
+    },
+    "add": false
+  }
+]

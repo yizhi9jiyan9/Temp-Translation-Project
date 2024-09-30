@@ -1,0 +1,20 @@
+data modify storage item main set value [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18]
+scoreboard players set m1 ItemList 1
+scoreboard players set m2 ItemList 1
+scoreboard players set m3 ItemList 1
+scoreboard players set m4 ItemList 1
+scoreboard players set m5 ItemList 1
+scoreboard players set m6 ItemList 1
+scoreboard players set m7 ItemList 1
+scoreboard players set m8 ItemList 1
+scoreboard players set m9 ItemList 1
+scoreboard players set m10 ItemList 1
+scoreboard players set m11 ItemList 1
+scoreboard players set m12 ItemList 1
+scoreboard players set m13 ItemList 1
+scoreboard players set m14 ItemList 1
+scoreboard players set m15 ItemList 1
+scoreboard players set m16 ItemList 1
+scoreboard players set m17 ItemList 1
+scoreboard players set m18 ItemList 1
+scoreboard players set mainLength ItemList 18

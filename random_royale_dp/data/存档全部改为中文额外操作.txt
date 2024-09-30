@@ -1,0 +1,9 @@
+/scoreboard objectives remove HoardID
+/scoreboard objectives remove FFAScoresDis
+/bossbar remove minecraft:traitor
+/bossbar remove minecraft:innocent
+
+
+
+/reload
+/function minecraft:load

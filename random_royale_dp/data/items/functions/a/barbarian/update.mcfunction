@@ -1,0 +1,5 @@
+item replace entity @s armor.head with player_head{display:{Name:'{"text":"Barbarian Mask","color":"red","italic":false}'},HideFlags:127,armor:1,Enchantments:[{id:"minecraft:binding_curse",lvl:1s}],SkullOwner:{Id:[I;-672597824,-2061283366,-1322261543,884181434],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzlkZjAwMTVkZmZiNzY5Y2Q3NjZhODE1Nzg3YWJmYjY2NDA1MGNhMzhkZjkxNTU2NTUyYTQyZTNkY2VlZDYwMyJ9fX0="}]}}}
+item replace entity @s armor.chest with iron_chestplate{armor:1,Unbreakable:1b,HideFlags:127,Enchantments:[{id:"minecraft:binding_curse",lvl:1s}],display:{Name:'{"text":"Barbarian Shirt","color":"white","italic":false}'}}
+item replace entity @s armor.feet with iron_boots{armor:1,Unbreakable:1b,HideFlags:127,Enchantments:[{id:"minecraft:binding_curse",lvl:1s}],display:{Name:'{"text":"Barbarian Shoes","color":"white","italic":false}'}}
+
+function items:a/noability

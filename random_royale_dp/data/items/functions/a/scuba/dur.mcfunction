@@ -1,0 +1,1 @@
+effect give @s water_breathing 1000000 0

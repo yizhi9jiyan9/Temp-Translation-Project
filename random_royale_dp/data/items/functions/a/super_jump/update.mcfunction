@@ -1,0 +1,6 @@
+item replace entity @s armor.head with player_head{Display:{Name:'{"text":"Super! Helmet","color":"blue","italic":false}'},SkullOwner:{Id:[I;-1244603489,-1614461939,-1261273174,-1247891833],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGQ5M2QyMjEyZGRiMDE3ZjhkNWQ2NDFhZjNiMGFiMjIzMTNlMTMzNzM0ODUwYmNmMmI1YmExMTVhMjk3MGY1OSJ9fX0="}]}},armor:1,Unbreakable:1b,HideFlags:127,Enchantments:[{id:"minecraft:binding_curse",lvl:1s}]}
+item replace entity @s armor.chest with leather_chestplate{Display:{Name:'{"text":"Super! Chestplate","color":"blue","italic":false}',color:10000},armor:1,Unbreakable:1b,HideFlags:127,Enchantments:[{id:"minecraft:binding_curse",lvl:1s}]}
+item replace entity @s armor.legs with iron_leggings{Display:{Name:'{"text":"Super! Pants","color":"blue","italic":false}'},armor:1,Unbreakable:1b,HideFlags:127,Enchantments:[{id:"minecraft:binding_curse",lvl:1s}]}
+item replace entity @s armor.feet with iron_boots{Display:{Name:'{"text":"Super! Boots","color":"blue","italic":false}'},armor:1,Unbreakable:1b,HideFlags:127,Enchantments:[{id:"minecraft:binding_curse",lvl:1s}]}
+
+item replace entity @s hotbar.2 with book{armor:1,display:{Name:'{"text":"按住[Shift]键以充能跳跃！","color":"green","italic":false}'}} 1

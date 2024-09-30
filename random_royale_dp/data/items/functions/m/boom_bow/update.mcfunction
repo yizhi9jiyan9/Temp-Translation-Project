@@ -1,0 +1,1 @@
+item replace entity @s hotbar.0 with bow{display:{Name:'{"text":"爆炸弓","color":"red","italic":false}',Lore:['{"text":"射出爆炸箭！","color":"gray","italic":false}','{"text":" ","color":"gray","italic":false}','[{"text":"右键时：","color":"gold","italic":false},{"text":"射出一支爆炸箭","color":"gray","italic":false}]']},HideFlags:127,Unbreakable:1b,CustomModelData:1,main:1,Enchantments:[]} 1

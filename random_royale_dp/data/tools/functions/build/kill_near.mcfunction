@@ -1,0 +1,5 @@
+kill @e[type=armor_stand,distance=..3]
+kill @e[type=item,distance=..3]
+kill @e[type=glow_item_frame,distance=..3]
+kill @e[type=painting,distance=..3]
+kill @e[type=slime,tag=glow,distance=..3]

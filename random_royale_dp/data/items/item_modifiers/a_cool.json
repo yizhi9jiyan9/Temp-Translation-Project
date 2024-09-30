@@ -1,0 +1,36 @@
+[
+    {
+      "function": "minecraft:set_name",
+      "entity": "this",
+      "name": {
+        "text": "装备技能冷却中",
+        "color": "red",
+        "italic": false,
+        "extra": [
+          {
+            "text": "（",
+            "color": "gold",
+            "italic": false,
+            "extra": [
+              {
+                "score": {
+                  "name": "#store",
+                  "objective": "ItemAtmr"
+                },
+                "color": "gold",
+                "italic": false,
+                "extra": [
+                  {
+                    "text": "）",
+                    "color": "gold",
+                    "italic": false
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+  

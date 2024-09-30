@@ -1,0 +1,1 @@
+scoreboard players set page item_chest 3

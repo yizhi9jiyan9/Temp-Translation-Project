@@ -1,0 +1,2 @@
+item replace entity @s hotbar.1 with lingering_potion{display:{Name:'{"text":"滞留型漂浮药水","color":"aqua","italic":false}',Lore:['{"text":"创建一个领域来反转所有人的重力","color":"gray","italic":false}','{"text":" "}','[{"text":"右键时：","color":"gold","italic":false},{"text":"抛出滞留型漂浮药水","color":"gray","italic":false}]','{"text":" ","italic":false}','{"text":"每15秒补充一次","color":"gold","italic":false}']},HideFlags:127,second:1,CustomPotionEffects:[{Id:25,Amplifier:2b,Duration:80,ShowParticles:1b},{Id:28,Amplifier:0b,Duration:140,ShowParticles:1b}],CustomPotionColor:65518} 1
+

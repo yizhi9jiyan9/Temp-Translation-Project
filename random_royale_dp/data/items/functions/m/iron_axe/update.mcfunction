@@ -1,0 +1,1 @@
+item replace entity @s hotbar.0 with iron_axe{display:{Name:'{"text":"铁斧","color":"#C0C0C0","italic":false}',Lore:['{"text":"你的基础铁斧","color":"gray","italic":false}','{"text":" "}','{"text":"信息:","color":"gold","italic":false}','{"text":" 9 攻击伤害","color":"gray","italic":false}','{"text":" 0.9 攻击速度","color":"gray","italic":false}']},HideFlags:127,Unbreakable:1b,main:1} 1

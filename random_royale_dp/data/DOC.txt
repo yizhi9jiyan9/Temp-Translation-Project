@@ -1,0 +1,38 @@
+THIS IS WHERE ALL NAMES FOR STUFF WILL BE STORED.
+Will be different for every DP. DO NOT CLOSE D:
+
+===NATOOLS DOCS===
+Scoreboards:
+    Rand: For generating random numbers
+        -op: output of the random function
+        -max: max - 1 output of the random function
+    Join: if a player joins they will have a 0, but players online have 1.
+
+Tags and Teams:
+
+
+
+Entities : (entityName-tag)
+    marker-rand: For generating a random number
+    slime-pot: for locking flower pots
+
+Bossbars and other Misc:
+
+
+
+===DP SPECIFIC DOCS===
+Scoreboards:
+
+
+
+Tags and Teams:
+
+
+
+Entities (markers, armorstands, ect):
+
+
+
+Bossbars and other Misc:
+
+

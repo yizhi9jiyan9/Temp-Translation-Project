@@ -1,0 +1,2 @@
+item replace entity @s armor.head with leather_helmet{display:{Name:'{"text":"Secret Stylish Cap","color":"gray","italic":false}'},HideFlags:127,Unbreakable:1b,armor:1,Enchantments:[{id:"minecraft:binding_curse",lvl:1s}],AttributeModifiers:[{AttributeName:"generic.armor",Name:"generic.armor",Amount:0,Operation:0,UUID:[I;-413430360,409354267,-1467433881,2144274045],Slot:"head"}]} 1
+function items:a/noability

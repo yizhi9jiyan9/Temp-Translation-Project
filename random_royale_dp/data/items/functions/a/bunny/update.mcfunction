@@ -1,0 +1,8 @@
+item replace entity @s armor.head with player_head{display:{Name:'{"text":"Bunny Mask","color":"white","italic":false}'},HideFlags:127,Unbreakable:1b,armor:1,Enchantments:[{id:"minecraft:binding_curse",lvl:1s}],SkullOwner:{Id:[I;1627748594,757157572,-1911636504,-1911467483],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWY5ODMzN2I4MjQyMjI5ZDk1ZGEyMzA5MDc1NTc4OTc3OGIxOGJmNWQwN2Q2MWY2MjBjZGJkYmJkMjlmYTYxNSJ9fX0="}]}}}
+item replace entity @s armor.chest with iron_chestplate{armor:1,Unbreakable:1b,HideFlags:127,Enchantments:[{id:"minecraft:binding_curse",lvl:1s}],display:{Name:'{"text":"True Speed Chestplate","color":"white","italic":false}'}}
+item replace entity @s armor.legs with diamond_leggings{armor:1,Unbreakable:1b,HideFlags:127,Enchantments:[{id:"minecraft:binding_curse",lvl:1s}],display:{Name:'{"text":"True Speed Leggings","color":"white","italic":false}'}}
+item replace entity @s armor.feet with iron_boots{armor:1,Unbreakable:1b,HideFlags:127,Enchantments:[{id:"minecraft:binding_curse",lvl:1s}],display:{Name:'{"text":"True Speed Boots","color":"white","italic":false}'}}
+
+
+execute unless score @s ItemAtmr matches 2.. run item replace entity @s hotbar.2 with carrot_on_a_stick{display:{Name:'{"text":"兔子跳","color":"white","italic":false}',Lore:['{"text":"给你兔子的跳跃能力","color":"gray","italic":false}','{"text":" ","color":"gray","italic":false}','[{"text":"右键时：","color":"gold","italic":false},{"text":"给你持续2秒的跳跃提升 II","color":"gray","italic":false}]','{"text":" ","color":"gray","italic":false}','{"text":"每7秒可用一次","color":"gold","italic":false}']},HideFlags:127,Unbreakable:1b,CustomModelData:13,armor:1} 1
+execute if score @s ItemAtmr matches 2.. run function items:a/standin

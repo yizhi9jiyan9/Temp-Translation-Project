@@ -1,0 +1,1 @@
+execute if predicate items:m_hold run scoreboard players reset @s ICrossbow

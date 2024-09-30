@@ -1,0 +1,20 @@
+data modify storage item second set value [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18]
+scoreboard players set s1 ItemList 1
+scoreboard players set s2 ItemList 1
+scoreboard players set s3 ItemList 1
+scoreboard players set s4 ItemList 1
+scoreboard players set s5 ItemList 1
+scoreboard players set s6 ItemList 1
+scoreboard players set s7 ItemList 1
+scoreboard players set s8 ItemList 1
+scoreboard players set s9 ItemList 1
+scoreboard players set s10 ItemList 1
+scoreboard players set s11 ItemList 1
+scoreboard players set s12 ItemList 1
+scoreboard players set s13 ItemList 1
+scoreboard players set s14 ItemList 1
+scoreboard players set s15 ItemList 1
+scoreboard players set s16 ItemList 1
+scoreboard players set s17 ItemList 1
+scoreboard players set s18 ItemList 1
+scoreboard players set secondLength ItemList 18

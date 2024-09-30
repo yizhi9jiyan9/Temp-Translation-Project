@@ -1,0 +1,1 @@
+execute as @e[type=bat,tag=bat_armor,tag=setup] run function items:a/bat/glob

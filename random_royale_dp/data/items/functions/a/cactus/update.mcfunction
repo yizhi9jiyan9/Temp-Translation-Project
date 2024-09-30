@@ -1,0 +1,6 @@
+item replace entity @s armor.head with leather_helmet{display:{Name:'{"text":"Cactus Helmet","color":"dark_green","italic":false}',color:750080},HideFlags:127,Unbreakable:1b,armor:1,Enchantments:[{id:"minecraft:thorns",lvl:3s},{id:"minecraft:binding_curse",lvl:1s}]}
+item replace entity @s armor.chest with leather_chestplate{display:{Name:'{"text":"Cactus Chestplate","color":"dark_green","italic":false}',color:1089536},HideFlags:127,Unbreakable:1b,armor:1,Enchantments:[{id:"minecraft:thorns",lvl:3s},{id:"minecraft:binding_curse",lvl:1s}]}
+item replace entity @s armor.legs with leather_leggings{display:{Name:'{"text":"Cactus Pants","color":"dark_green","italic":false}',color:1359361},HideFlags:127,Unbreakable:1b,armor:1,Enchantments:[{id:"minecraft:thorns",lvl:3s},{id:"minecraft:binding_curse",lvl:1s}]}
+item replace entity @s armor.feet with leather_boots{display:{Name:'{"text":"Cactus Boots","color":"dark_green","italic":false}',color:1769216},HideFlags:127,Unbreakable:1b,armor:1,Enchantments:[{id:"minecraft:thorns",lvl:3s},{id:"minecraft:binding_curse",lvl:1s}]}
+
+function items:a/noability

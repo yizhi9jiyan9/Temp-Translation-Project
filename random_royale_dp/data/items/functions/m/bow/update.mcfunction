@@ -1,0 +1,1 @@
+item replace entity @s hotbar.0 with bow{display:{Name:'{"text":"弓","color":"#8C5E00","italic":false}',Lore:['{"text":"经典好弓！","color":"gray","italic":false}','{"text":" "}','[{"text":"右键时：","color":"gold","italic":false},{"text":"射出一支箭","color":"gray"}]']},HideFlags:127,Unbreakable:1b,main:1,Enchantments:[{id:"minecraft:power",lvl:2s}]} 1

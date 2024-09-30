@@ -1,0 +1,1 @@
+function item_chest:gui/second/setup

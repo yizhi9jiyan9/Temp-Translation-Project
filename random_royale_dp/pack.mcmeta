@@ -1,0 +1,21 @@
+{
+   "pack": {
+      "pack_format": 10,
+      "description": "§aDatapack powered by§b§l NaTools§e Created by §6sodium12"
+   },
+   
+   "filter": {
+      "block": [
+          {
+              "namespace": "minecraft",
+              "path": "advancements/.*"
+          },
+          {
+            "namespace": "minecraft",
+            "path": "recipes/.*"
+        }
+
+      ]
+  } 
+
+}

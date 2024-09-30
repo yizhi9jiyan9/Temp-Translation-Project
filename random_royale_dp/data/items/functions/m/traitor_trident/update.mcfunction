@@ -1,0 +1,2 @@
+execute unless score @s ItemM1 matches 1 run item replace entity @s hotbar.0 with trident{display:{Name:'{"text":"叛徒三叉戟","color":"dark_aqua","italic":false}',Lore:['{"text":"水手的首选武器","color":"gray","italic":false}','{"text":" "}','{"text":"信息:","color":"gold","italic":false}','{"text":" 8 攻击伤害","color":"gray","italic":false}','{"text":" 1.1 攻击速度","color":"gray","italic":false}']},HideFlags:127,Unbreakable:1b,main:1,Enchantments:[{id:"minecraft:loyalty",lvl:1s}]} 1
+execute if score @s ItemM1 matches 1 run item replace entity @s hotbar.0 with air

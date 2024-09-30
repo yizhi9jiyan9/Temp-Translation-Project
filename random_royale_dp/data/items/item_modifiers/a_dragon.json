@@ -1,0 +1,46 @@
+
+  [
+    {
+      "function": "minecraft:set_count",
+      "count": {
+        "type": "minecraft:score",
+        "target": "this",
+        "score": "ItemA1"
+      }
+    },
+    {
+      "function": "minecraft:set_name",
+      "entity": "this",
+      "name": {
+        "text": "New firework in ",
+        "color": "red",
+        "italic": false,
+        "extra": [
+          {
+            "text": "(",
+            "color": "gold",
+            "italic": false,
+            "extra": [
+              {
+                "score": {
+                  "name": "#store",
+                  "objective": "ItemAtmr"
+                },
+                "color": "gold",
+                "italic": false,
+                "extra": [
+                  {
+                    "text": ")",
+                    "color": "gold",
+                    "italic": false
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+  
+  

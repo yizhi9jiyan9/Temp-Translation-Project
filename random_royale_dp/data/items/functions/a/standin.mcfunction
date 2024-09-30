@@ -1,0 +1,2 @@
+#for when you have an item, but its on cooldown
+item replace entity @s hotbar.2 with red_stained_glass_pane{armor:1,display:{Name:'{"text":"Armor Ability on Cooldown","color":"red","italic":false}'}} 1

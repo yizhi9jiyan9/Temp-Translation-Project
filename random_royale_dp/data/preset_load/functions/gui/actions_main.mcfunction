@@ -1,0 +1,1 @@
+execute if score page objd_gui_count matches 1 run function preset_load:gui/actions1

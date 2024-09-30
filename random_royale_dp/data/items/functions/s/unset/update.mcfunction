@@ -1,0 +1,1 @@
+item replace entity @s hotbar.1 with red_stained_glass_pane{second:1,display:{Name:'{"text":"无道具","color":"red","italic":false}',Lore:['{"text":"你没有任何道具 :(","color":"gray","italic":false}']},HideFlags:127} 1

@@ -1,0 +1,1 @@
+item replace entity @s hotbar.0 with diamond_sword{main:1,display:{Name:'{"text":"钻石剑","color":"aqua","italic":false}',Lore:['{"text":"你的基础钻石剑","color":"gray","italic":false}','{"text":" "}','{"text":"信息:","color":"gold","italic":false}','{"text":" 7 攻击伤害","color":"gray","italic":false}','{"text":" 1.6 攻击速度","color":"gray","italic":false}']},HideFlags:127,Unbreakable:1b} 1

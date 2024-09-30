@@ -1,0 +1,28 @@
+FEATURES OF NA TOOLS by sodium12 :)
+
+
+==[base]==
+Purpose of items: Things needed repeatedly while creating a DP. Includes templates for commonly used JSON files.
+Includes:
+-All commonly used files
+-Position detection predicate.
+
+
+==main==
+Purpose of items: Things commonly needed once in a data pack
+-includes all the MOST commonly used files
+-basic join detection
+-hit detection and linking (adv)
+
+
+==minecraft==
+Purpose of items: all files commonly needed in MC namespace
+-All files that have a use in the MC specific namespace
+-Removes all advancments and recipes (may be moved to side DP)
+-tick/load/reset functions. Empty except for things needed for other pre-set up tools. Also sets all gamerules make sure to edit them to DP needs
+
+
+==tools==
+Purpose of items: useful functions that do not ever need to be edited. Useful for building DP or insertable into actual functions.
+-build: Includes many helpful functions helpful for building
+-rand: generated a random number. Maximum number is based on [] scoreboard - 1.

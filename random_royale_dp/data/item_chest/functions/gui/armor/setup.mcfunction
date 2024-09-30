@@ -1,0 +1,20 @@
+data modify storage item armor set value [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18]
+scoreboard players set a1 ItemList 1
+scoreboard players set a2 ItemList 1
+scoreboard players set a3 ItemList 1
+scoreboard players set a4 ItemList 1
+scoreboard players set a5 ItemList 1
+scoreboard players set a6 ItemList 1
+scoreboard players set a7 ItemList 1
+scoreboard players set a8 ItemList 1
+scoreboard players set a9 ItemList 1
+scoreboard players set a10 ItemList 1
+scoreboard players set a11 ItemList 1
+scoreboard players set a12 ItemList 1
+scoreboard players set a13 ItemList 1
+scoreboard players set a14 ItemList 1
+scoreboard players set a15 ItemList 1
+scoreboard players set a16 ItemList 1
+scoreboard players set a17 ItemList 1
+scoreboard players set a18 ItemList 1
+scoreboard players set armorLength ItemList 18
